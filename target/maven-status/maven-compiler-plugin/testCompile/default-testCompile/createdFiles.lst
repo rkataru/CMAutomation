@@ -1,0 +1,6 @@
+uiSteps/BaseSteps.class
+apiSteps/RESTStepsDefinations.class
+runners/TestRunner.class
+apiSteps/APIStepData.class
+uiSteps/Hooks.class
+uiSteps/HomePageStepDefinitions.class
