@@ -8,7 +8,7 @@ Cucumber feature files location: ./src/test/resources
 ### Steps to clone and setup
 
 ```console
-$ git clone https://github...
+$ git clone  https://github.com/rkataru/CMAutomation.git
 $ mvn clean install
 ```
 
